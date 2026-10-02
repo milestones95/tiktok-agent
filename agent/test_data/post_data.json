@@ -1,0 +1,631 @@
+{
+  "account": {
+    "username": "devcareertok",
+    "display_name": "Dev Career Tok",
+    "bio": "SWE job search, interview prep, and building in public",
+    "followers": 24850,
+    "following": 198,
+    "total_likes": 228825
+  },
+  "posts": [
+    {
+      "post_id": "p_7100000000000000001",
+      "caption": "Walking through a real LeetCode problem I got in a Google interview \ud83e\udde0 #leetcode #swe #faang",
+      "hashtags": [
+        "leetcode",
+        "swe",
+        "faang",
+        "codinginterview"
+      ],
+      "video_url": "https://www.tiktok.com/@devcareertok/video/7100000000000000001",
+      "duration_seconds": 62,
+      "posted_at": "2026-08-23T06:15:00Z",
+      "stats": {
+        "views": 428065,
+        "likes": 38915,
+        "comments_count": 6,
+        "shares": 5248,
+        "saves": 9408
+      },
+      "comments": [
+        {
+          "comment_id": "c_711097",
+          "username": "dev_dana",
+          "text": "your explanation of the two pointer approach finally made it click for me",
+          "likes": 374,
+          "timestamp": "2026-08-06T07:47:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_554710",
+          "username": "omar_ships",
+          "text": "I always freeze up on the optimization step, any tips?",
+          "likes": 88,
+          "timestamp": "2026-09-02T16:55:00Z",
+          "reply_count": 2
+        },
+        {
+          "comment_id": "c_161981",
+          "username": "internhunter",
+          "text": "wait this is the exact question I got at a different company too lol",
+          "likes": 434,
+          "timestamp": "2026-09-01T16:20:00Z",
+          "reply_count": 2
+        },
+        {
+          "comment_id": "c_705136",
+          "username": "internhunter",
+          "text": "saving this, my interview is next week \ud83d\ude2d",
+          "likes": 63,
+          "timestamp": "2026-08-23T22:46:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_239643",
+          "username": "marcus.makes",
+          "text": "can you do the follow up question they usually ask after this one?",
+          "likes": 570,
+          "timestamp": "2026-08-22T19:26:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_423466",
+          "username": "careerswitcher_cam",
+          "text": "the way you talk through your thought process out loud is so helpful",
+          "likes": 584,
+          "timestamp": "2026-08-09T02:49:00Z",
+          "reply_count": 0
+        }
+      ]
+    },
+    {
+      "post_id": "p_7100000000000000002",
+      "caption": "How I actually schedule my interviews so I don't burn out during a job search #jobsearch #softwareengineer #interviewtips",
+      "hashtags": [
+        "jobsearch",
+        "softwareengineer",
+        "interviewtips"
+      ],
+      "video_url": "https://www.tiktok.com/@devcareertok/video/7100000000000000002",
+      "duration_seconds": 77,
+      "posted_at": "2026-07-13T22:18:00Z",
+      "stats": {
+        "views": 7230,
+        "likes": 231,
+        "comments_count": 4,
+        "shares": 3,
+        "saves": 101
+      },
+      "comments": [
+        {
+          "comment_id": "c_548363",
+          "username": "joyfuljules",
+          "text": "wish I knew this before I scheduled 3 onsites back to back last month",
+          "likes": 544,
+          "timestamp": "2026-08-21T05:01:00Z",
+          "reply_count": 1
+        },
+        {
+          "comment_id": "c_414328",
+          "username": "travis_dev",
+          "text": "the buffer time between interviews is so underrated, learned this the hard way",
+          "likes": 370,
+          "timestamp": "2026-08-10T18:16:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_702326",
+          "username": "marcus.makes",
+          "text": "do you batch all your onsites in the same week or spread them out?",
+          "likes": 83,
+          "timestamp": "2026-08-19T08:04:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_401924",
+          "username": "faangdreamer",
+          "text": "how many interviews do you try to have going at once?",
+          "likes": 459,
+          "timestamp": "2026-09-02T20:28:00Z",
+          "reply_count": 1
+        }
+      ]
+    },
+    {
+      "post_id": "p_7100000000000000003",
+      "caption": "Walking through a resume that actually got callbacks (real example) #resume #softwareengineer #careertips",
+      "hashtags": [
+        "resume",
+        "softwareengineer",
+        "careertips"
+      ],
+      "video_url": "https://www.tiktok.com/@devcareertok/video/7100000000000000003",
+      "duration_seconds": 46,
+      "posted_at": "2026-07-16T11:02:00Z",
+      "stats": {
+        "views": 240,
+        "likes": 34,
+        "comments_count": 0,
+        "shares": 0,
+        "saves": 1
+      },
+      "comments": [
+        {
+          "comment_id": "c_723241",
+          "username": "brianbuilds",
+          "text": "the way you cut the fluff from the summary section, taking notes",
+          "likes": 358,
+          "timestamp": "2026-08-17T09:56:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_597128",
+          "username": "pixel.pete",
+          "text": "do recruiters actually read past the first third of the resume?",
+          "likes": 276,
+          "timestamp": "2026-09-03T00:16:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_814328",
+          "username": "lucy.logs",
+          "text": "can you do a version of this for new grads with no experience?",
+          "likes": 591,
+          "timestamp": "2026-08-26T01:36:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_584122",
+          "username": "ryantests",
+          "text": "quantifying impact like this is what I keep forgetting to do",
+          "likes": 23,
+          "timestamp": "2026-08-30T04:53:00Z",
+          "reply_count": 1
+        }
+      ]
+    },
+    {
+      "post_id": "p_7100000000000000004",
+      "caption": "Roasting a resume that keeps getting rejected (don't do this) #resume #careeradvice #techjobs",
+      "hashtags": [
+        "resume",
+        "careeradvice",
+        "techjobs"
+      ],
+      "video_url": "https://www.tiktok.com/@devcareertok/video/7100000000000000004",
+      "duration_seconds": 21,
+      "posted_at": "2026-07-08T02:09:00Z",
+      "stats": {
+        "views": 10988,
+        "likes": 200,
+        "comments_count": 5,
+        "shares": 4,
+        "saves": 79
+      },
+      "comments": [
+        {
+          "comment_id": "c_959077",
+          "username": "omar_ships",
+          "text": "the objective statement at the top made me wince, glad you called it out",
+          "likes": 140,
+          "timestamp": "2026-08-08T06:43:00Z",
+          "reply_count": 1
+        },
+        {
+          "comment_id": "c_815887",
+          "username": "tinaturing",
+          "text": "I have literally 3 of these mistakes on my resume rn \ud83d\udc80",
+          "likes": 367,
+          "timestamp": "2026-08-05T16:51:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_258647",
+          "username": "travis_dev",
+          "text": "listing every single technology you've ever touched is definitely a trap",
+          "likes": 180,
+          "timestamp": "2026-08-14T17:00:00Z",
+          "reply_count": 1
+        },
+        {
+          "comment_id": "c_375509",
+          "username": "marcus.makes",
+          "text": "can you cover ATS formatting issues in a follow up?",
+          "likes": 186,
+          "timestamp": "2026-09-04T19:34:00Z",
+          "reply_count": 2
+        },
+        {
+          "comment_id": "c_739434",
+          "username": "internhunter",
+          "text": "the wall of text with no bullet points is so real",
+          "likes": 378,
+          "timestamp": "2026-08-25T19:16:00Z",
+          "reply_count": 2
+        }
+      ]
+    },
+    {
+      "post_id": "p_7100000000000000005",
+      "caption": "The cold outreach message that got me 3 interviews (steal this) #networking #jobsearch #outreach",
+      "hashtags": [
+        "networking",
+        "jobsearch",
+        "outreach"
+      ],
+      "video_url": "https://www.tiktok.com/@devcareertok/video/7100000000000000005",
+      "duration_seconds": 76,
+      "posted_at": "2026-05-21T01:50:00Z",
+      "stats": {
+        "views": 34593,
+        "likes": 1983,
+        "comments_count": 6,
+        "shares": 7,
+        "saves": 203
+      },
+      "comments": [
+        {
+          "comment_id": "c_165271",
+          "username": "codewithzo",
+          "text": "this is so much shorter than what I usually write, noted",
+          "likes": 410,
+          "timestamp": "2026-09-02T17:32:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_456572",
+          "username": "faangdreamer",
+          "text": "the ask at the end is so clear, mine are always too vague",
+          "likes": 112,
+          "timestamp": "2026-09-03T21:00:00Z",
+          "reply_count": 2
+        },
+        {
+          "comment_id": "c_662685",
+          "username": "sara_builds",
+          "text": "do you send this on LinkedIn or find their email instead?",
+          "likes": 154,
+          "timestamp": "2026-08-05T12:21:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_318054",
+          "username": "faangdreamer",
+          "text": "way better than the generic 'I'd love to connect' messages I've been sending",
+          "likes": 72,
+          "timestamp": "2026-08-23T19:20:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_731535",
+          "username": "ryantests",
+          "text": "the specific detail about their product in the first line is key",
+          "likes": 355,
+          "timestamp": "2026-08-20T20:53:00Z",
+          "reply_count": 1
+        },
+        {
+          "comment_id": "c_603730",
+          "username": "brianbuilds",
+          "text": "how long do you wait before following up if they don't respond?",
+          "likes": 477,
+          "timestamp": "2026-08-26T21:51:00Z",
+          "reply_count": 0
+        }
+      ]
+    },
+    {
+      "post_id": "p_7100000000000000006",
+      "caption": "Outreach messages that get ignored every time (please stop sending these) #networking #careeradvice",
+      "hashtags": [
+        "networking",
+        "careeradvice",
+        "linkedin"
+      ],
+      "video_url": "https://www.tiktok.com/@devcareertok/video/7100000000000000006",
+      "duration_seconds": 58,
+      "posted_at": "2026-08-09T08:21:00Z",
+      "stats": {
+        "views": 1000,
+        "likes": 24,
+        "comments_count": 1,
+        "shares": 0,
+        "saves": 3
+      },
+      "comments": [
+        {
+          "comment_id": "c_830015",
+          "username": "ellaexplores",
+          "text": "I've definitely sent version 2 of this before lol my bad",
+          "likes": 93,
+          "timestamp": "2026-08-19T12:02:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_909435",
+          "username": "travis_dev",
+          "text": "the copy paste template energy is so obvious when you point it out",
+          "likes": 364,
+          "timestamp": "2026-08-18T06:11:00Z",
+          "reply_count": 2
+        },
+        {
+          "comment_id": "c_767357",
+          "username": "travis_dev",
+          "text": "asking for a coffee chat with zero context is way too common",
+          "likes": 337,
+          "timestamp": "2026-08-16T17:09:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_875813",
+          "username": "travis_dev",
+          "text": "can you show what a mid response looks like too, not just great vs terrible?",
+          "likes": 410,
+          "timestamp": "2026-08-29T07:29:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_129294",
+          "username": "ellaexplores",
+          "text": "the 'quick question' opener that leads to 5 paragraphs \ud83d\ude02",
+          "likes": 29,
+          "timestamp": "2026-08-20T15:48:00Z",
+          "reply_count": 2
+        },
+        {
+          "comment_id": "c_568952",
+          "username": "ryantests",
+          "text": "this explains why my response rate has been so low",
+          "likes": 352,
+          "timestamp": "2026-08-05T12:55:00Z",
+          "reply_count": 0
+        }
+      ]
+    },
+    {
+      "post_id": "p_7100000000000000007",
+      "caption": "What nobody tells you about interviewing at early stage startups #startups #softwareengineer #interviewing",
+      "hashtags": [
+        "startups",
+        "softwareengineer",
+        "interviewing"
+      ],
+      "video_url": "https://www.tiktok.com/@devcareertok/video/7100000000000000007",
+      "duration_seconds": 79,
+      "posted_at": "2026-08-05T05:40:00Z",
+      "stats": {
+        "views": 31608,
+        "likes": 2634,
+        "comments_count": 6,
+        "shares": 123,
+        "saves": 307
+      },
+      "comments": [
+        {
+          "comment_id": "c_920304",
+          "username": "codewithzo",
+          "text": "the take home project scope creep is way too accurate",
+          "likes": 397,
+          "timestamp": "2026-08-20T18:33:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_939724",
+          "username": "tinaturing",
+          "text": "the equity conversation part is what I struggle with most",
+          "likes": 88,
+          "timestamp": "2026-08-21T11:13:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_278261",
+          "username": "kevin.techtok",
+          "text": "did they give you a timeline or was it all vibes based like mine",
+          "likes": 162,
+          "timestamp": "2026-09-04T19:23:00Z",
+          "reply_count": 1
+        },
+        {
+          "comment_id": "c_741281",
+          "username": "faangdreamer",
+          "text": "this matches my experience exactly, especially the vague leveling",
+          "likes": 149,
+          "timestamp": "2026-08-20T02:01:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_675311",
+          "username": "careerswitcher_cam",
+          "text": "how do you evaluate if the founders are legit during onsite?",
+          "likes": 159,
+          "timestamp": "2026-09-01T00:00:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_885903",
+          "username": "kevin.techtok",
+          "text": "the speed of their process vs big tech is such a shock the first time",
+          "likes": 539,
+          "timestamp": "2026-08-22T17:08:00Z",
+          "reply_count": 0
+        }
+      ]
+    },
+    {
+      "post_id": "p_7100000000000000008",
+      "caption": "3 things I learned after 40+ technical interviews this year #softwareengineer #jobsearch #techtok",
+      "hashtags": [
+        "softwareengineer",
+        "jobsearch",
+        "techtok"
+      ],
+      "video_url": "https://www.tiktok.com/@devcareertok/video/7100000000000000008",
+      "duration_seconds": 20,
+      "posted_at": "2026-05-29T20:28:00Z",
+      "stats": {
+        "views": 54276,
+        "likes": 4523,
+        "comments_count": 5,
+        "shares": 210,
+        "saves": 558
+      },
+      "comments": [
+        {
+          "comment_id": "c_794655",
+          "username": "internhunter",
+          "text": "do you have a spreadsheet template for tracking interviews like this?",
+          "likes": 469,
+          "timestamp": "2026-08-09T07:34:00Z",
+          "reply_count": 2
+        },
+        {
+          "comment_id": "c_657658",
+          "username": "kevin.techtok",
+          "text": "this is basically the pep talk I needed before my interview tomorrow",
+          "likes": 133,
+          "timestamp": "2026-08-19T07:59:00Z",
+          "reply_count": 1
+        },
+        {
+          "comment_id": "c_738115",
+          "username": "mila.codes",
+          "text": "40 interviews is wild, respect for tracking all of that",
+          "likes": 187,
+          "timestamp": "2026-08-11T19:49:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_749174",
+          "username": "sara_builds",
+          "text": "the point about narrating your thinking even when stuck is so true",
+          "likes": 484,
+          "timestamp": "2026-08-18T22:40:00Z",
+          "reply_count": 2
+        },
+        {
+          "comment_id": "c_682423",
+          "username": "brianbuilds",
+          "text": "the part about not over-optimizing before getting a working solution \ud83d\udc4f",
+          "likes": 543,
+          "timestamp": "2026-08-10T20:04:00Z",
+          "reply_count": 2
+        }
+      ]
+    },
+    {
+      "post_id": "p_7100000000000000009",
+      "caption": "Building a side project as a portfolio piece \u2014 day 1 to launch #buildinpublic #softwareengineer #sideproject",
+      "hashtags": [
+        "buildinpublic",
+        "softwareengineer",
+        "sideproject"
+      ],
+      "video_url": "https://www.tiktok.com/@devcareertok/video/7100000000000000009",
+      "duration_seconds": 47,
+      "posted_at": "2026-05-14T19:31:00Z",
+      "stats": {
+        "views": 100321,
+        "likes": 4382,
+        "comments_count": 5,
+        "shares": 37,
+        "saves": 733
+      },
+      "comments": [
+        {
+          "comment_id": "c_735581",
+          "username": "newgradgrace",
+          "text": "this is exactly the kind of project that stands out on a resume",
+          "likes": 517,
+          "timestamp": "2026-08-29T01:43:00Z",
+          "reply_count": 1
+        },
+        {
+          "comment_id": "c_659190",
+          "username": "brianbuilds",
+          "text": "following this series, need the motivation to finish my own project",
+          "likes": 520,
+          "timestamp": "2026-08-19T16:16:00Z",
+          "reply_count": 2
+        },
+        {
+          "comment_id": "c_686692",
+          "username": "codewithzo",
+          "text": "can you share the repo when it's done?",
+          "likes": 265,
+          "timestamp": "2026-08-09T09:52:00Z",
+          "reply_count": 1
+        },
+        {
+          "comment_id": "c_511423",
+          "username": "lucy.logs",
+          "text": "what stack did you end up going with for the backend?",
+          "likes": 124,
+          "timestamp": "2026-08-25T21:18:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_176672",
+          "username": "codewithzo",
+          "text": "the scope you picked feels actually achievable unlike my last 5 ideas",
+          "likes": 438,
+          "timestamp": "2026-08-14T14:10:00Z",
+          "reply_count": 0
+        }
+      ]
+    },
+    {
+      "post_id": "p_7100000000000000010",
+      "caption": "A hard system design question broken down simply #systemdesign #softwareengineer #faang",
+      "hashtags": [
+        "systemdesign",
+        "softwareengineer",
+        "faang"
+      ],
+      "video_url": "https://www.tiktok.com/@devcareertok/video/7100000000000000010",
+      "duration_seconds": 48,
+      "posted_at": "2026-08-01T22:03:00Z",
+      "stats": {
+        "views": 19832,
+        "likes": 890,
+        "comments_count": 4,
+        "shares": 5,
+        "saves": 219
+      },
+      "comments": [
+        {
+          "comment_id": "c_800273",
+          "username": "travis_dev",
+          "text": "saving this whole series for my onsite next month",
+          "likes": 166,
+          "timestamp": "2026-08-30T01:33:00Z",
+          "reply_count": 2
+        },
+        {
+          "comment_id": "c_455589",
+          "username": "omar_ships",
+          "text": "the way you started with requirements before jumping to design is the move",
+          "likes": 413,
+          "timestamp": "2026-08-29T12:40:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_120429",
+          "username": "joyfuljules",
+          "text": "the tradeoffs discussion at the end is what interviewers actually care about",
+          "likes": 374,
+          "timestamp": "2026-08-18T09:32:00Z",
+          "reply_count": 0
+        },
+        {
+          "comment_id": "c_447600",
+          "username": "newgradgrace",
+          "text": "system design still scares me more than leetcode honestly",
+          "likes": 393,
+          "timestamp": "2026-08-16T14:28:00Z",
+          "reply_count": 0
+        }
+      ]
+    }
+  ]
+}
